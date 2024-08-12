@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{asset('bootstrap/css/bootstrap.css')}}">
 </head>
 <body>
-    <h1 class="text-center">CRUD Laravel 11</h1>
+    <h1 class="text-center">CRUD Laravel 11 sudah di Clone</h1>
 
     <div class="text-center">
         <a href="{{route('pegawai.tampil')}}" class="btn btn-primary">Kelola Data</a>

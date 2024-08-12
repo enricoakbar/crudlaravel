@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\Models\Pegawai;
+
+use Illuminate\View\View;
+use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 
 class PegawaiController extends Controller
